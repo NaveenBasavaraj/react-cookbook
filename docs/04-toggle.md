@@ -1,4 +1,3 @@
-Good call on both. Here's a Tailwind primer first, then Exercise 2.
 
 ---
 

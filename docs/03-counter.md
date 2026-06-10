@@ -1,4 +1,3 @@
-Smart to standardize the approach. Here's the template you'll see every time:
 
 ---
 
